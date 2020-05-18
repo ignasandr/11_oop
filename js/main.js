@@ -51,3 +51,6 @@ console.log(lg);
 silelis.turnOn();
 
 lg.turnOn();
+
+class New {
+}
